@@ -1,0 +1,2 @@
+#directory usage humanly understandable 
+du -h /var

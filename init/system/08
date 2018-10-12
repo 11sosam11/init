@@ -1,0 +1,2 @@
+#the file that holds the address of allowed connections for ssh
+/etc/secuirty/access.conf

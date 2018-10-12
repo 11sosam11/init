@@ -1,0 +1,2 @@
+#the command to restart the ssh service unless you want to only restart the service if its already running. in which case you would use try-restart
+/etc/init.d/ssh restart

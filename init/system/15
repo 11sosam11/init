@@ -1,0 +1,2 @@
+#'%' refers to a job (background process) and the "?*" searches for the process that maches "*"
+kill %?tail

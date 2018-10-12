@@ -1,0 +1,2 @@
+#to check the status of the ssh service
+/etc/init.d/ssh status

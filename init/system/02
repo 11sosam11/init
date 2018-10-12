@@ -1,0 +1,2 @@
+#using hostname you can view the current name of the system as well as making a temp change as root.
+hostname cats

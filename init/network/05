@@ -1,0 +1,1 @@
+nslookup slash16.org | tr -d '\:	' | grep Server |sed 's/Server//'

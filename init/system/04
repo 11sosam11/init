@@ -1,0 +1,2 @@
+#to check when the last time the stystem was booted -b or --boot calls the time of last system boot
+who --boot

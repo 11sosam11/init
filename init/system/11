@@ -1,0 +1,2 @@
+#to see availbe space in a humanly readable way -h flag
+df -h
